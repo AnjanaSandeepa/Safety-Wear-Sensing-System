@@ -1,6 +1,6 @@
 # Safety-Wear-Sensing-System
 
-![interface_photo](https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/f8156555-0a22-4408-b781-56b1f65dd75b)
+![interface_photo](https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/5e044b96-d76a-4567-98c1-83f3ba00a7c8)
 
 Safety-Wear-based gate system, I used a machine learning model using Keras, a Tensorflow library in Python language. After building the model, I used OpenCV to detect whether a person is wearing Safety Wear or not in real-time. I used Tkinter to create my user interface.we can control system accuracy using the user interface
 
@@ -8,7 +8,7 @@ This system contains mainly four devices. They are a nodeMCU, camera(webcam), LE
 
 ## Video
 
-https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/0badfe04-eeb9-4e58-bc69-6a864e89773f
+https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/808f7a80-d16c-4848-8104-43faa733b7a7
 
 
 # How to run the project
@@ -28,7 +28,7 @@ Remember you have to connect your nodeMCU with LCD, I2C, servo, LED and buzzer b
 the connection is given below:
 
 ## Diagram
-![Screenshot 2023-05-11 233603](https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/97cb647d-50fa-4101-88c9-33c71d931537)
+![diagram](https://github.com/AnjanaSandeepa/Safety-Wear-Sensing-System/assets/119288138/bbd1ec31-5252-4635-a400-23f39f9e725e)
 
 #### For LCD and I2C
 ###### you have to connect the SCL pin with nodeMCU digital pin D3

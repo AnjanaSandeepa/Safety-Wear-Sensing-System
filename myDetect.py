@@ -200,7 +200,7 @@ class MyApp(customtkinter.CTk):
         self.btn_admin = customtkinter.CTkButton(self.control_frame, text="ADMIN LOGIN", command=self.open_input_admin_event)
         self.btn_admin.grid(row=3, column=0, padx=10, pady=10)
 
-    ############################################################################################################################################
+    ###################################################################################################################################
 
     #use to print statement
     def print (self, string):
